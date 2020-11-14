@@ -1,3 +1,4 @@
-hello <- function() {
-  print("Hello, world!")
+byebye <- function() {
+  print("Bye bye!")
+  # useless function
 }
